@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Christian de Mérona
 - 👀 I’m interested in creating awesome and usefull apps and websites ! 
-- 🌱 I’m currently getting certified on web quality and accessibility
+- 🌱 I’m currently challenging myself on [Codewars](https://www.codewars.com/users/Christian-de-MERONA) 💪 !
 - 💞️ I’m looking to collaborate on an impactful project ! 
 - 📫 If you would like to get in touch, please contact me through 👉 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-de-merona) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Chris_devBack)
 
